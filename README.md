@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frankERT
 - 👀 I’m interested in improve some sources codes 
-- 🌱 I’m currently learning python programming
+- 🌱 I’m currently working on python programming
 - 💞️ I’m looking to collaborate on linux projects
 - 📫 How to reach me: email me at frankernesto.ramirez@gmail.com
 
